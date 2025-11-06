@@ -46,6 +46,5 @@ The report helps stakeholders optimize pricing, improve customer experience, and
 - **Cancellation Patterns:** Visualizations to understand cancellations by booking lead time, hotel type, and customer type.  
 - **Occupancy Analysis:** Insights into peak seasons and occupancy rates.
 
----
 
-## 📁 Report Structure
+
