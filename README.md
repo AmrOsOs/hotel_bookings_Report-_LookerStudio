@@ -1,50 +1,37 @@
-# 🏨 Hotel Bookings Report (Looker Studio)
+# 🏨 Hotel Bookings Report (Looker Studio)
 
-## 📘 Overview
-This project is a **Hotel Bookings Report** created using **Looker Studio** (formerly Google Data Studio).  
-The report provides insights into hotel booking trends, customer behavior, and key performance metrics to help hotel managers make data-driven decisions.
+## 📘 Overview  
+This project is a **Hotel Bookings Report** created using Looker Studio.  
+The report provides insights into hotel booking trends, customer behavior, and key performance metrics — aimed at helping hotel management make data‑driven decisions.
 
----
+## 🎯 Project Goal  
+The main goal of this report is to **analyze hotel bookings and classify patterns** such as booking volume, cancellation behavior, hotel type preference, and seasonal demand — with the end‑purpose of enabling optimized pricing, improved customer experience, and strategic forecasting.
 
-## 🎯 Project Goal
-The main goal of this project is to **analyze hotel booking data** and provide actionable insights on:
-- Booking patterns and trends over time  
-- Customer demographics and preferences  
-- Hotel occupancy rates and revenue trends  
-- Seasonal demand variations  
+## 📊 Dashboard Link  
+Access the interactive dashboard here:  
+[Hotel Bookings Report](https://lookerstudio.google.com/reporting/9568eca4-9db9-45f1-94b6-f1018837ce9e/page/MlTdF)
 
-The report helps stakeholders optimize pricing, improve customer experience, and forecast hotel demand.
-
----
-
-## 📊 Data Source
+## 📊 Data Source  
 - **Dataset:** Hotel Bookings Data  
-- **Source:** Kaggle / Internal Hotel Records / CSV (specify your dataset)  
-- **Data Includes:**
-  - Booking date, arrival date, and stay duration  
-  - Customer type and country  
+- **Source:** Kaggle (or your internal dataset)  
+- **Key Fields Include:**  
+  - Booking date, arrival date, stay duration  
+  - Customer type, country of origin  
   - Hotel type (City hotel / Resort hotel)  
-  - Number of adults, children, and special requests  
-  - Booking status (canceled or not)  
-  - ADR (Average Daily Rate) and revenue
+  - Number of adults, children; special requests  
+  - Booking status (canceled / not canceled)  
+  - ADR (Average Daily Rate) & revenue metrics  
 
----
+## 🧰 Tools & Technologies  
+| Category             | Tool                              |
+|----------------------|-----------------------------------|
+| Reporting / Dashboard| Looker Studio                     |
+| Data Source          | CSV / Google Sheets / Database    |
+| Visualization Types  | Line charts, Bar charts, Tables, Scorecards, Geo maps |
 
-## 🧰 Tools & Technologies
-| Category | Tools |
-|-----------|--------|
-| **Reporting Tool** | Looker Studio (Google Data Studio) |
-| **Data Source** | CSV, Google Sheets, or Database |
-| **Visualization Types** | Line Charts, Bar Charts, Pie Charts, Tables, Scorecards, Geo Maps |
-
----
-
-## 📈 Key Visualizations & Insights
-- **Booking Trends:** Monthly and yearly trends for city and resort hotels.  
-- **Customer Analysis:** Breakdown by country, customer type, and repeat bookings.  
-- **Revenue Metrics:** Average daily rate (ADR), total revenue by hotel type, and seasonal patterns.  
-- **Cancellation Patterns:** Visualizations to understand cancellations by booking lead time, hotel type, and customer type.  
-- **Occupancy Analysis:** Insights into peak seasons and occupancy rates.
-
-
-
+## 📈 Key Visualizations & Insights  
+- **Booking Trend Over Time:** Monthly & yearly bookings for city vs resort hotels.  
+- **Customer & Country Analysis:** Popular customer types, repeated bookings, origin countries.  
+- **Revenue Metrics:** ADR trends, total revenue by hotel type, seasonal patterns.  
+- **Cancellation Analysis:** Cancellation rates by lead time, hotel type, customer type.  
+- **Occupancy & Demand:** Peak seasons, guest composition, special requests insights.
